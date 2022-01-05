@@ -1,0 +1,6 @@
+{
+  "deepscan.ignoreConfirmWarning": true,
+  "jshint.exclude": {*!vscode.workspace.rootPath!*\\node_modules}: true,
+  "jshint.config": null,
+  "jshint.enable": false,
+}
