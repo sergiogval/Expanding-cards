@@ -12,7 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-color: #696565;
+  background-color: #f5f5f5;
 }
 
 .container {
@@ -30,9 +30,10 @@ body {
   color: white;
   cursor: pointer;
   flex: 0.5;
-  margin: 10px;
+  margin: 15px;
   position: relative;
   transition: flex 0.7s ease-in;
+  box-shadow: 10px 10px 20px gray;
 }
 
 .panel h3 {
